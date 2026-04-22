@@ -1,0 +1,6 @@
+if SHIELD_HW_PREONIC
+
+config ZMK_KEYBOARD_NAME
+    default "hw_preonic"
+
+endif

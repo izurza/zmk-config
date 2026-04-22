@@ -1,0 +1,2 @@
+config SHIELD_HW_PREONIC
+    def_bool $(shields_list_contains,hw_preonic)
